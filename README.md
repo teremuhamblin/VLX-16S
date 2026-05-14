@@ -1,18 +1,20 @@
 ###### README.md >> markdown 
-# 📘 VLX‑16S 
-- Tactical Engine Control Simulator
-Simulateur ECU tactique inspiré des calculateurs embarqués militaires.  
-Pensé pour l’ingénierie, la simulation moteur et l’expérimentation logicielle, il offre une architecture robuste, modulaire et réaliste.  
-Projet open‑source conçu pour les passionnés de mécanique, de défense numérique et de systèmes embarqués.
+# 📘 VLX‑16S
+> Tactical Engine Control
+```md
+- Simulateur complet + ECU tactique inspiré des calculateurs embarqués militaires.  
+- Pensé pour l’ingénierie, la simulation moteur et l’expérimentation logicielle, il offre une architecture robuste, modulaire et réaliste.  
+- Projet open‑source conçu pour les passionnés de mécanique, de défense numérique et de systèmes embarqués.
+```
 
 ---
 
-🎨 Identité Visuelle & Charte Graphique
+## 🎨 Identité Visuelle 
+>& Charte Graphique
+### 🎯 Vision
+- Créer un environnement logiciel évoquant un calculateur tactique, précis, sombre, robuste, inspiré des véhicules militaires modernes.
 
-🎯 Vision
-Créer un environnement logiciel évoquant un calculateur tactique, précis, sombre, robuste, inspiré des véhicules militaires modernes.
-
-🎨 Palette de couleurs
+### 🎨 Palette de couleurs
 | Couleur | Hex | Usage |
 |--------|------|--------|
 | Vert militaire | #4B5320 | Fond tactique, blocs principaux |
@@ -21,12 +23,14 @@ Créer un environnement logiciel évoquant un calculateur tactique, précis, som
 | Beige sable | #C2B280 | Titres secondaires, badges |
 | Rouge signal | #B22222 | Alertes, warnings, sécurité |
 
-🧩 Typographies
+### 🧩 Typographies
+```schema
 - Orbitron — titres, branding, logo  
 - Roboto Mono — code, données, interface technique  
-- Exo 2 — sous‑titres, badges, éléments secondaires  
+- Exo 2 — sous‑titres, badges, éléments secondaires
+```
 
-🪖 Motifs & textures
+### 🪖 Motifs & textures
 - Camouflage digital  
 - Grille hexagonale métallique  
 - Chevrons tactiques  
@@ -34,16 +38,16 @@ Créer un environnement logiciel évoquant un calculateur tactique, précis, som
 
 ---
 
-🧠 Description du Projet
-
+### 🧠 Description du Projet
+```md
 > VLX‑16S simule un calculateur moteur (ECU) pour un bloc 1.6L essence/diesel dans un contexte tactique.  
 > Il permet de tester des logiques d’injection, d’allumage, de modes opérationnels et de gestion capteurs.  
 > L’objectif : fournir une base solide pour la simulation embarquée et l’expérimentation moteur.
+```
 
 ---
 
-⚙️ Fonctionnalités
-
+### ⚙️ Fonctionnalités
 - Simulation ECU minimaliste (injection, allumage, capteurs)  
 - Modes : Civil, Tactique, Dégradé  
 - Profil moteur configurable (1.6L essence/diesel)  
@@ -54,9 +58,8 @@ Créer un environnement logiciel évoquant un calculateur tactique, précis, som
 
 ---
 
-🧱 Architecture du Projet
-
-`
+### 🧱 Architecture du Projet
+```text
 VLX-16S/
 ├─ src/
 │  ├─ core/            # Modèle moteur, ECU, modes
@@ -68,14 +71,12 @@ VLX-16S/
 ├─ assets/             # Logos, visuels
 ├─ docs/               # Documentation, charte graphique
 └─ README.md
-`
+```
 
 ---
 
-🚀 Exemple de Code Minimal (main.cpp)
-
-`cpp
-
+### 🚀 Exemple de Code Minimal (main.cpp)
+```cpp
 include <iostream>
 
 include <algorithm>
@@ -133,29 +134,29 @@ int main() {
     auto out = ecu.compute(idle);
     std::cout << "fuel=" << out.fuelMs << "ms, spark=" << out.sparkAdvance << "°\n";
 }
-`
+```
 
 ---
 
-🧭 Slogan Officiel
-
+### 🧭 Slogan Officiel
 > Precision. Power. Tactical Control.
 
 ---
 
-📜 Licence
-Projet sous licence MIT (modifiable selon tes besoins).
+### 📜 Licence
+>Projet sous licence MIT (modifiable selon tes besoins).
 
 ---
 
-🤝 Contributions
-Les contributions sont encouragées :  
+### 🤝 Contributions
+>Les contributions sont encouragées :
+```md
 optimisation moteur, nouveaux modes ECU, interface graphique, documentation, modules avancés.
+```
 
 ---
 
-📡 Auteur
-Projet développé par Teremu — Toulouse, France.
-`
+### 📡 Auteur
+- Projet développé par Teremu — Toulouse, France.
 
 ---
