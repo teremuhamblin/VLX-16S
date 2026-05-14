@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 160">
+  <rect width="500" height="160" fill="#0A0A0A"/>
+
+  <!-- Bande supérieure avec apparition -->
+  <path d="M20 30 H480 L450 70 H50 Z" fill="#4B5320">
+    <animate attributeName="opacity" from="0" to="1" dur="0.8s" fill="freeze"/>
+  </path>
+
+  <!-- Texte VLX-16S avec effet de "scan" -->
+  <text x="50%" y="50%" text-anchor="middle"
+        font-family="Orbitron" font-size="52"
+        fill="#C2B280" stroke="#5A5A5A" stroke-width="2"
+        dominant-baseline="middle">
+    VLX-16S
+    <animate attributeName="opacity" from="0" to="1" dur="1s" begin="0.4s" fill="freeze"/>
+  </text>
+
+  <!-- Bande inférieure -->
+  <path d="M100 110 H400 L380 135 H120 Z" fill="#5A5A5A">
+    <animate attributeName="opacity" from="0" to="1" dur="0.8s" begin="0.6s" fill="freeze"/>
+  </path>
+
+  <!-- Point rouge clignotant -->
+  <circle cx="250" cy="122" r="8" fill="#B22222">
+    <animate attributeName="opacity"
+             values="0;1;0"
+             dur="1.2s"
+             repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Lignes de scan tactique -->
+  <line x1="0" y1="50" x2="500" y2="50" stroke="#4B5320" stroke-width="1" opacity="0.0">
+    <animate attributeName="opacity" values="0;0.6;0" dur="1.5s" repeatCount="indefinite"/>
+  </line>
+  <line x1="0" y1="110" x2="500" y2="110" stroke="#4B5320" stroke-width="1" opacity="0.0">
+    <animate attributeName="opacity" values="0;0.6;0" dur="1.5s" begin="0.5s" repeatCount="indefinite"/>
+  </line>
+</svg>
