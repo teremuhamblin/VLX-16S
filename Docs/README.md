@@ -8,9 +8,9 @@ Ce dossier contient toute la documentation du projet **VLX‑16S**.
 ```md
 - Guides techniques
 - Spécifications ECU
-- Charte graphique
+- Moteur
 - Notes de conception
-- Roadmap & Changelog
+- Preparation
 ```
 
 ### Objectif
