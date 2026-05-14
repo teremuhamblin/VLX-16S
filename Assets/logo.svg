@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 120">
+  <rect width="400" height="120" fill="#0A0A0A"/>
+  <text x="50%" y="55%" text-anchor="middle" font-family="Orbitron" font-size="48" fill="#C2B280" stroke="#5A5A5A" stroke-width="2">
+    VLX-16S
+  </text>
+  <path d="M20 100 L380 100 L360 110 L40 110 Z" fill="#4B5320"/>
+  <circle cx="200" cy="95" r="6" fill="#B22222"/>
+</svg>
