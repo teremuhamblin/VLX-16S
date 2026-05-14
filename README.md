@@ -61,15 +61,15 @@
 ### 🧱 Architecture du Projet
 ```text
 VLX-16S/
-├─ src/
+├─ A-src/
 │  ├─ core/            # Modèle moteur, ECU, modes
 │  ├─ io/              # Entrées/sorties, capteurs
 │  └─ main.cpp         # Simulateur minimal
-├─ include/            # Headers publics
-├─ python-interface/   # API ou dashboard (optionnel)
-├─ tests/              # Tests unitaires
-├─ assets/             # Logos, visuels
-├─ docs/               # Documentation, charte graphique
+├─ Include/            # Headers publics
+├─ Python-interface/   # API ou dashboard (optionnel)
+├─ Tests/              # Tests unitaires
+├─ Assets/             # Logos, visuels
+├─ Docs/               # Documentation, charte graphique
 └─ README.md
 ```
 
