@@ -1,6 +1,6 @@
 ###### README.md >> markdown 
 # 📘 VLX‑16S![VLX-16S Badge](https://img.shields.io/badge/VLX--16S-Tactical%20ECU%20Simulator-4B5320?style=for-the-badge&logo=apache&logoColor=C2B280)
-> DOSSIER : TESTS/
+> DOSSIER : ./ Tests/
 
 Ce dossier contient les tests unitaires et fonctionnels du projet.
 
