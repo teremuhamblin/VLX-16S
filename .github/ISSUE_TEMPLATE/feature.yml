@@ -1,0 +1,32 @@
+name: "🚀 Feature Request"
+description: "Proposer une nouvelle fonctionnalité ou amélioration"
+title: "[FEATURE] — "
+labels: ["feature"]
+body:
+  - type: textarea
+    id: objectif
+    attributes:
+      label: "🎯 Objectif"
+      description: "Décris la fonctionnalité souhaitée."
+      placeholder: "Exemple : Ajouter un mode 'Eco‑Boost' dans le simulateur ECU…"
+    validations:
+      required: true
+
+  - type: textarea
+    id: contexte
+    attributes:
+      label: "📘 Contexte"
+      description: "Pourquoi cette fonctionnalité est-elle utile ?"
+      placeholder: "Exemple : Améliorer la précision du calcul AFR…"
+
+  - type: textarea
+    id: implementation
+    attributes:
+      label: "🛠️ Implémentation potentielle"
+      placeholder: "Modules concernés, fichiers à modifier, approche technique…"
+
+  - type: textarea
+    id: impact
+    attributes:
+      label: "📈 Impact attendu"
+      placeholder: "Performance, UX, sécurité, maintenance…"
