@@ -1,0 +1,25 @@
+---
+
+## 📚 **discussion_docs.md**
+
+```markdown
+# DISCUSSION_TEMPLATE — docs.yml
+
+```yaml
+name: "📚 Documentation"
+description: "Discussion autour de la documentation VLX‑16S"
+labels: ["docs", "discussion"]
+body:
+  - type: textarea
+    id: sujet
+    attributes:
+      label: "📚 Sujet"
+      placeholder: "Quel aspect de la documentation veux-tu discuter ?"
+    validations:
+      required: true
+
+  - type: textarea
+    id: suggestions
+    attributes:
+      label: "🛠️ Suggestions"
+      placeholder: "Propositions d’amélioration, corrections, ajouts…"
