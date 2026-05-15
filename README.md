@@ -1,5 +1,5 @@
 ###### README.md >> markdown 
-# 📘 VLX‑16S![VLX-16S Badge](https://img.shields.io/badge/VLX--16S-Tactical%20ECU%20Simulator-4B5320?style=for-the-badge&logo=apache&logoColor=C2B280)
+# 📘 VLX‑16S![VLX-16S Badge](https://img.shields.io/badge/VLX--16S-Tactical%20ECU%20Simulator-2F4F4F?style=for-the-badge&logo=apache&logoColor=C2B280)
 > DOSSIER : ./ ou / (à la racine)
 ```md
 - Simulateur complet + ECU tactique inspiré des calculateurs embarqués militaires.  
@@ -36,16 +36,19 @@
 ## 🎨 Identité Visuelle 
 >& Charte Graphique
 <p align="left">
-<img src="https://img.shields.io/badge/VLX--16S-Tactical_Simulator-4B5320?style=for-the-badge&logo=apache&logoColor=C2B280">
+<img
+src="https://img.shields.io/badge/VLX--16S-Tactical_Simulator-556B2F?style=for-the-badge&logo=apache&logoColor=C2B280">
 <img src="https://img.shields.io/badge/Architecture-Modulaire-556B2F?style=for-the-badge">
-<img src="https://img.shields.io/badge/Military--Grade-Yes-2F4F4F?style=for-the-badge">
+<img src="https://img.shields.io/badge/Military--Grade-Yes-556B2F?style=for-the-badge">
 
 <br>
 
-<img src="https://img.shields.io/badge/Docs-Markdown-2F4F2F?style=for-the-badge&logo=markdown">
-<img src="https://img.shields.io/badge/Config-YAML-4F2F4F?style=for-the-badge&logo=yaml">
-<img src="https://img.shields.io/badge/CI-GitHub_Actions-2F2F4F?style=for-the-badge&logo=githubactions&logoColor=white">
-
+<img
+src="https://img.shields.io/badge/Docs-Markdown-2F4F4F?style=for-the-badge&logo=markdown">
+<img
+src="https://img.shields.io/badge/CI-GitHub_Actions-2F4F4F?style=for-the-badge&logo=githubactions&logoColor=white">
+<img
+src="https://img.shields.io/badge/Config-YAML-2F4F4F?style=for-the-badge&logo=yaml">
 <br>
 <a
 </a>
@@ -286,11 +289,9 @@ engineer@vlx-16s:~$ █
 </p>
 <p align="center">
 <a href="https://www.fondationlegionetrangere.fr">
-  <img src="https://img.shields.io/badge/Support-Légion_Étrangère-0a3d62?style=for-the-badge&logo=france&logoColor=white">
+  <img src="https://img.shields.io/badge/Subdivision-Légion_Étrangère-2F4F4F?style=for-the-badge&logo=france&logoColor=white">
 </a>
 <a href="https://www.fondation-armee-de-terre.fr">
-  <img src="https://img.shields.io/badge/Support-Armée_de_Terre-2d3436?style=for-the-badge&logo=france&logoColor=white">
+  <img src="https://img.shields.io/badge/Corps-Armée_de_Terre-8F1F1F?style=for-the-badge&logo=france&logoColor=white">
 </a>
 </p>
-
-
