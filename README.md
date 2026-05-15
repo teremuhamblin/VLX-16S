@@ -7,8 +7,14 @@
 - Projet open‑source conçu pour les passionnés de mécanique, de défense numérique et de systèmes embarqués.
 ```
 
+---
+
+<p align="center">
+
 [![Support Légion étrangère](https://img.shields.io/badge/Support-Légion_Étrangère-0a3d62?style=for-the-badge&logo=france&logoColor=white)](https://www.fondationlegionetrangere.fr)
 
+</p>
+    
 ---
 
 ## 🎨 Identité Visuelle 
@@ -169,8 +175,13 @@ optimisation moteur, nouveaux modes ECU, interface graphique, documentation, mod
 
 ---
 
+<p align="center">
+
+[![Support Légion étrangère](https://img.shields.io/badge/Support-Légion_Étrangère-0a3d62?style=for-the-badge&logo=france&logoColor=white)](https://www.fondationlegionetrangere.fr)
+
+</p>
+
 ### 📡 Auteur
 - Projet développé par Teremu
 - Toulouse, France.
 
----
