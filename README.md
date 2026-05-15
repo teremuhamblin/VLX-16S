@@ -7,6 +7,8 @@
 - Projet open‑source conçu pour les passionnés de mécanique, de défense numérique et de systèmes embarqués.
 ```
 
+[![Support Légion étrangère](https://img.shields.io/badge/Support-Légion_Étrangère-0a3d62?style=for-the-badge&logo=france&logoColor=white)](https://www.fondationlegionetrangere.fr)
+
 ---
 
 ## 🎨 Identité Visuelle 
