@@ -1,0 +1,35 @@
+name: "📌 Task"
+description: "Créer une tâche technique, maintenance ou refactor"
+title: "[TASK] — "
+labels: ["task"]
+body:
+  - type: textarea
+    id: objectif
+    attributes:
+      label: "🎯 Objectif"
+      description: "Décris la tâche à accomplir."
+      placeholder: "Exemple : Refactor du module injection pour réduire la latence…"
+    validations:
+      required: true
+
+  - type: textarea
+    id: details
+    attributes:
+      label: "🛠️ Détails techniques"
+      placeholder: "Modules concernés, dépendances, fichiers à créer/modifier…"
+
+  - type: input
+    id: estimation
+    attributes:
+      label: "⏳ Estimation"
+      placeholder: "Exemple : 2h, 1 jour, 1 sprint…"
+
+  - type: checkboxes
+    id: acceptance
+    attributes:
+      label: "✔️ Critères d’acceptation"
+      options:
+        - label: "Fonctionnel"
+        - label: "Testé"
+        - label: "Documenté"
+        - label: "Intégré au système VLX‑16S"
