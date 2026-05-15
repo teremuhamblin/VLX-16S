@@ -1,6 +1,16 @@
 # CODEOWNERS
 ###### Définition des responsables des fichiers et dossiers du projet VLX-16S
 
+---
+
+## Gouvernance & sécurité
+### Propriétaires par défaut
+* @teremuhamblin 
+
+### Exemple : dossiers spécifiques
+/docs/  @teremuhamblin 
+./   @teremuhamblin 
+
 ### Propriétaire global du projet
 * @teremuhamblin 
 
