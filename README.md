@@ -35,6 +35,22 @@
 
 ## 🎨 Identité Visuelle 
 >& Charte Graphique
+<p align="left">
+<img src="https://img.shields.io/badge/VLX--16S-Tactical_Simulator-4B5320?style=for-the-badge&logo=apache&logoColor=C2B280">
+<img src="https://img.shields.io/badge/Architecture-Modulaire-556B2F?style=for-the-badge">
+<img src="https://img.shields.io/badge/Military--Grade-Yes-2F4F4F?style=for-the-badge">
+
+<br>
+
+<img src="https://img.shields.io/badge/Docs-Markdown-2F4F2F?style=for-the-badge&logo=markdown">
+<img src="https://img.shields.io/badge/Config-YAML-4F2F4F?style=for-the-badge&logo=yaml">
+<img src="https://img.shields.io/badge/CI-GitHub_Actions-2F2F4F?style=for-the-badge&logo=githubactions&logoColor=white">
+
+<br>
+<a
+</a>
+</p>
+
 ### 🎯 Vision
 - Créer un environnement logiciel évoquant un calculateur tactique, précis, sombre, robuste, inspiré des véhicules militaires modernes.
 
