@@ -1,0 +1,23 @@
+name: "🐞 Bugfix PR"
+description: "Correction d’un bug dans VLX‑16S"
+title: "[BUGFIX] — "
+labels: ["bugfix"]
+body:
+  - type: textarea
+    id: bug
+    attributes:
+      label: "🐞 Bug corrigé"
+      placeholder: "Décris le bug corrigé…"
+      required: true
+
+  - type: textarea
+    id: fix
+    attributes:
+      label: "🛠️ Correction apportée"
+      placeholder: "Explique la solution technique…"
+
+  - type: textarea
+    id: tests
+    attributes:
+      label: "🧪 Tests"
+      placeholder: "Tests réalisés pour valider la correction…"
