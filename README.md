@@ -185,22 +185,18 @@ optimisation moteur, nouveaux modes ECU, interface graphique, documentation, mod
         V L X ‑ 1 6 S   •   T A C T I C A L   S Y S T E M
 ──────────────────────────────────────────────────────────────
 </pre>
-
 </p>
-
 <p align="center">
-
 <a href="https://www.fondationlegionetrangere.fr">
   <img src="https://img.shields.io/badge/Support-Légion_Étrangère-0a3d62?style=for-the-badge&logo=france&logoColor=white" alt="Support Légion étrangère">
 </a>
-
-&nbsp;&nbsp;&nbsp;
-
+&nbsp;
 <a href="https://www.fondation-armee-de-terre.fr">
-  <img src="https://img.shields.io/badge/Support-Armée_de_Terre-2d3436?style=for-the-badge&logo=france&logoColor=white" alt="Support Armée de Terre">
+  <img src="https://img.shields.io/badge/Support-Armée_de_Terre-2d3436?style=for-the-badge&logo=france&logoColor=white" alt="Corps Armée de Terre">
 </a>
-
 </p>
+
+---
 
 ### 📡 Auteur
 - Projet développé par The MadDoG.tmdg
