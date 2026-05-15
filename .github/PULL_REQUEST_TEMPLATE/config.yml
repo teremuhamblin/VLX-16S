@@ -1,0 +1,9 @@
+blank_pull_requests_enabled: false
+
+pull_request_templates:
+  - name: "✨ General PR"
+    path: "general.yml"
+  - name: "🐞 Bugfix PR"
+    path: "bugfix.yml"
+  - name: "🚀 Feature PR"
+    path: "feature.yml"
