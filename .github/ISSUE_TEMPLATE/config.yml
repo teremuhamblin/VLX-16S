@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+
+issue_templates:
+  - name: "🐞 Bug Report"
+    path: "bug.yml"
+  - name: "🚀 Feature Request"
+    path: "feature.yml"
+  - name: "📌 Task"
+    path: "task.yml"
+
+contact_links: []
