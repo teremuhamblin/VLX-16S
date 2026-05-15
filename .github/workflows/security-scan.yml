@@ -1,10 +1,16 @@
 name: Security Scan
 
-on: [push]
+on:
+  schedule:
+    - cron: '0 3 * * 1'
+  workflow_dispatch:
 
 jobs:
-  scan:
+  dependency-review:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: snyk/actions/python@v3
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Dependency Review
+        uses: actions/dependency-review-action@v4
