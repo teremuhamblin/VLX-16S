@@ -8,17 +8,17 @@
 #                 Military‑Grade • Robust • Field‑Ready
 # =====================================================================
 
-# === Primary Support Channel =========================================
+# === GitHub Sponsors (désactivé tant que ton compte n'est pas validé) =
 github: [teremuhamblin]
 
-# === Optional Platforms (Disabled but Ready) ==========================
+# === Custom Support Links (ACTIFS — affichés dans GitHub) ============
+custom:
+  - https://buymeacoffee.com/teremu
+  - https://vlx16s.example.com/support
+
+# === Optional Platforms (désactivées mais prêtes) ====================
 # patreon: teremuhamblin
 # ko_fi: teremuhamblin
-
-# === Custom Support Links (Optional) =================================
-# custom:
-#   - https://vlx16s.example.com/support
-#   - https://buymeacoffee.com/teremu
 
 # =====================================================================
 #   SUPPORT THE VLX‑16S PROJECT
