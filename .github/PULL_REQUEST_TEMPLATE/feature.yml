@@ -1,0 +1,23 @@
+name: "🚀 Feature PR"
+description: "Ajout d’une nouvelle fonctionnalité"
+title: "[FEATURE] — "
+labels: ["feature"]
+body:
+  - type: textarea
+    id: feature
+    attributes:
+      label: "🚀 Nouvelle fonctionnalité"
+      placeholder: "Décris la fonctionnalité ajoutée…"
+      required: true
+
+  - type: textarea
+    id: implementation
+    attributes:
+      label: "🛠️ Implémentation"
+      placeholder: "Modules modifiés, fichiers ajoutés…"
+
+  - type: textarea
+    id: tests
+    attributes:
+      label: "🧪 Tests"
+      placeholder: "Tests réalisés pour valider la fonctionnalité…"
