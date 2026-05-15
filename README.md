@@ -149,6 +149,17 @@ int main() {
 ---
 
 ### 🤝 Contributions
+#### 🎖️ Support the Project  
+>Sponsor officiel :
+- https://github.com/sponsors/teremuhamblin (github.com in Bing)
+>🛠️ Contribue à :
+```md
+- Développement ECU tactique  
+- Simulation moteur 1.6L 32v 438cv  
+- Analyse CAN‑BUS & télémétrie  
+- Systèmes embarqués militaires  
+```
+
 >Les contributions sont encouragées :
 ```md
 optimisation moteur, nouveaux modes ECU, interface graphique, documentation, modules avancés.
@@ -157,6 +168,7 @@ optimisation moteur, nouveaux modes ECU, interface graphique, documentation, mod
 ---
 
 ### 📡 Auteur
-- Projet développé par Teremu — Toulouse, France.
+- Projet développé par Teremu
+- Toulouse, France.
 
 ---
