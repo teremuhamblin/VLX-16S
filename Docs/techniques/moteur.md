@@ -134,7 +134,7 @@
 - 356 Nm @ 7 800 tr/min
 ```
 
-##$ 📌 Courbe de puissance simulée
+### 📌 Courbe de puissance simulée
 ```text
 - 210 ch @ 6 500 tr/min  
 - 350 ch @ 8 500 tr/min  
