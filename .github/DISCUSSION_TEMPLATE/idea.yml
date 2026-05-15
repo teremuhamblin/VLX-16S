@@ -1,0 +1,26 @@
+# DISCUSSION_TEMPLATE — idea.yml
+
+```yaml
+name: "💡 Idée / Concept"
+description: "Proposer une idée ou un concept pour améliorer VLX‑16S"
+labels: ["idea", "discussion"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: "💡 Description"
+      placeholder: "Décris ton idée ou concept…"
+    validations:
+      required: true
+
+  - type: textarea
+    id: objectif
+    attributes:
+      label: "🎯 Objectif"
+      placeholder: "Quel problème cette idée résout-elle ?"
+
+  - type: textarea
+    id: approche
+    attributes:
+      label: "🛠️ Approche possible"
+      placeholder: "Pistes techniques, modules concernés…"
