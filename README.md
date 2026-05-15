@@ -188,11 +188,10 @@ optimisation moteur, nouveaux modes ECU, interface graphique, documentation, mod
 </p>
 <p align="center">
 <a href="https://www.fondationlegionetrangere.fr">
-  <img src="https://img.shields.io/badge/Support-Légion_Étrangère-0a3d62?style=for-the-badge&logo=france&logoColor=white" alt="Support Légion étrangère">
+  <img src="https://img.shields.io/badge/Subdivision-Légion_Étrangère-0a3d62?style=for-the-badge&logo=france&logoColor=white" alt="Support Légion étrangère">
 </a>
-&nbsp;
 <a href="https://www.fondation-armee-de-terre.fr">
-  <img src="https://img.shields.io/badge/Support-Armée_de_Terre-2d3436?style=for-the-badge&logo=france&logoColor=white" alt="Corps Armée de Terre">
+  <img src="https://img.shields.io/badge/Corps-Armée_de_Terre-2d3436?style=for-the-badge&logo=france&logoColor=white" alt="Corps Armée de Terre">
 </a>
 </p>
 
