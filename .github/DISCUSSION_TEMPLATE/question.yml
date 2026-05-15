@@ -1,0 +1,25 @@
+---
+
+## ❓ **discussion_question.md**
+
+```markdown
+# DISCUSSION_TEMPLATE — question.yml
+
+```yaml
+name: "❓ Question"
+description: "Poser une question technique ou générale sur VLX‑16S"
+labels: ["question"]
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: "❓ Question"
+      placeholder: "Pose ta question ici…"
+    validations:
+      required: true
+
+  - type: textarea
+    id: contexte
+    attributes:
+      label: "📘 Contexte"
+      placeholder: "Ajoute des détails pour mieux comprendre ta question…"
