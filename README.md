@@ -6,12 +6,31 @@
 - Pensé pour l’ingénierie, la simulation moteur et l’expérimentation logicielle, il offre une architecture robuste, modulaire et réaliste.  
 - Projet open‑source conçu pour les passionnés de mécanique, de défense numérique et de systèmes embarqués.
 ```
-
 ---
+
 <p align="center">
-    
-[![Support Légion étrangère](https://img.shields.io/badge/Support-Légion_Étrangère-0a3d62?style=for-the-badge&logo=france&logoColor=white)](https://www.fondationlegionetrangere.fr)
-</p>    
+
+<pre>
+────────────────────────────────────────────────────────────────────────
+ T A C T I C A L   E C U   B O O T   S E Q U E N C E
+────────────────────────────────────────────────────────────────────────
+
+[ BOOT 0x01 ] Initializing core systems............... OK
+[ BOOT 0x02 ] Loading ECU tactical modules............ OK
+[ BOOT 0x03 ] Activating CAN‑BUS interfaces........... OK
+[ BOOT 0x04 ] Running security self‑diagnostics....... OK
+[ BOOT 0x05 ] Deploying HUD tactical interface........ OK
+[ BOOT 0x06 ] Syncing system clocks................... OK
+[ BOOT 0x07 ] Establishing encrypted link............. OK
+[ BOOT 0x08 ] Finalizing boot sequence................ OK
+
+>>> SYSTEM STATUS : ONLINE
+>>> ACCESS LEVEL : ENGINEER / TACTICAL
+>>> CHANNEL : SECURE
+
+────────────────────────────────────────────────────────────────────────
+</pre>
+
 ---
 
 ## 🎨 Identité Visuelle 
