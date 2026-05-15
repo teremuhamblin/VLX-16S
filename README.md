@@ -223,32 +223,12 @@ optimisation moteur, nouveaux modes ECU, interface graphique, documentation, mod
 ---
 
 <p align="center">
-
 <pre>
 ────────────────────────────────────────────────────────────────────────
-   V L X ‑ 1 6 S   •   T A C T I C A L   E C U   B O O T   S E Q U E N C E
-────────────────────────────────────────────────────────────────────────
-
-[ BOOT 0x01 ] Initializing core systems............... OK
-[ BOOT 0x02 ] Loading ECU tactical modules............ OK
-[ BOOT 0x03 ] Activating CAN‑BUS interfaces........... OK
-[ BOOT 0x04 ] Running security self‑diagnostics....... OK
-[ BOOT 0x05 ] Deploying HUD tactical interface........ OK
-[ BOOT 0x06 ] Syncing system clocks................... OK
-[ BOOT 0x07 ] Establishing encrypted link............. OK
-[ BOOT 0x08 ] Finalizing boot sequence................ OK
-
->>> SYSTEM STATUS : ONLINE
->>> ACCESS LEVEL : ENGINEER / TACTICAL
->>> CHANNEL : SECURE
-
-────────────────────────────────────────────────────────────────────────
 </pre>
-
 </p>
 
 <p align="center">
-
 <pre>
 [ TERMINAL // VLX‑16S ECU INTERFACE ]───────────────────────────────────
 
@@ -285,22 +265,16 @@ engineer@vlx-16s:~$ █
 │ ░   VLX‑16S TACTICAL ECU • LIVE SYSTEM FEED • SECURE CHANNEL       ░ │
 │ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ │
 └─────────────────────────────────────────────────────────────────────┘
+
 </pre>
-
 </p>
-
 <p align="center">
-
 <a href="https://www.fondationlegionetrangere.fr">
   <img src="https://img.shields.io/badge/Support-Légion_Étrangère-0a3d62?style=for-the-badge&logo=france&logoColor=white">
 </a>
-
-&nbsp;&nbsp;&nbsp;
-
 <a href="https://www.fondation-armee-de-terre.fr">
   <img src="https://img.shields.io/badge/Support-Armée_de_Terre-2d3436?style=for-the-badge&logo=france&logoColor=white">
 </a>
-
 </p>
 
 
