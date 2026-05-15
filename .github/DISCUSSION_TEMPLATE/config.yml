@@ -1,0 +1,7 @@
+discussion_templates:
+  - name: "💡 Idée / Concept"
+    path: "idea.yml"
+  - name: "❓ Question"
+    path: "question.yml"
+  - name: "📚 Documentation"
+    path: "docs.yml"
