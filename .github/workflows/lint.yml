@@ -1,0 +1,19 @@
+name: Lint
+
+on:
+  pull_request:
+    branches: [ main, develop ]
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Run linters
+        run: |
+          # Exemple Python
+          flake8 src tests
+          # Exemple C/C++
+          # cppcheck --enable=all src
