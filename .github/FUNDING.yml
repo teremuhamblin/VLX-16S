@@ -1,28 +1,24 @@
 # =====================================================================
-#   __     __    __   __   ___      ___   ___     ___   _____   _____
-#  |  \   /  \  |  \ |  \ | _ \    / _ \ / _ \   / __| |_   _| |_   _|
-#  | |) | | () | | |) | | |   /   | (_) | (_) |  \__ \   | |     | |
-#  |___/   \__/  |___/ |_| |_|_\   \___/ \___/   |___/   |_|     |_|
-#
-#                 VLX‑16S — Tactical ECU Simulation Project
-#                 Military‑Grade • Robust • Field‑Ready
+#   VLX‑16S — Tactical ECU Simulation Project
+#   Military‑Grade • Robust • Field‑Ready
 # =====================================================================
 
-# === GitHub Sponsors (désactivé tant que ton compte n'est pas validé) =
+# === GitHub Sponsors (désactivé tant que non validé) =================
 github: [teremuhamblin]
 
-# === Custom Support Links (ACTIFS — affichés dans GitHub) ============
+# === Official Military Support Links =================================
 custom:
+  - https://www.fondationlegionetrangere.fr
+  - https://www.fondation-armee-de-terre.fr
   - https://buymeacoffee.com/teremu
-  - https://vlx16s.example.com/support
 
-# === Optional Platforms (désactivées mais prêtes) ====================
+# === Optional Platforms ==============================================
 # patreon: teremuhamblin
 # ko_fi: teremuhamblin
 
 # =====================================================================
 #   SUPPORT THE VLX‑16S PROJECT
-#   Your contribution strengthens the development of:
+#   Your contribution strengthens:
 #     • Tactical ECU simulation modules
 #     • Engine mapping R&D
 #     • CAN‑BUS decoding & diagnostics
