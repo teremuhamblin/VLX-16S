@@ -1,0 +1,28 @@
+---
+
+## ✨ **general.yml**
+
+```yaml
+name: "✨ General PR"
+description: "Pull Request générale pour modifications diverses"
+title: "[PR] — "
+labels: ["pr-general"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: "🔍 Description"
+      placeholder: "Explique les modifications apportées…"
+      required: true
+
+  - type: textarea
+    id: changes
+    attributes:
+      label: "📦 Changements"
+      placeholder: "- Ajout…\n- Modification…\n- Suppression…"
+
+  - type: textarea
+    id: tests
+    attributes:
+      label: "🧪 Tests réalisés"
+      placeholder: "Décris les tests effectués…"
