@@ -1,0 +1,42 @@
+name: "🐞 Bug Report"
+description: "Signaler un bug reproductible dans le système VLX‑16S"
+title: "[BUG] — "
+labels: ["bug"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: "🔧 Description du bug"
+      description: "Explique clairement le problème rencontré."
+      placeholder: "Exemple : Le module ECU Mapping plante lors du chargement…"
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: "🔁 Étapes pour reproduire"
+      description: "Liste les étapes exactes pour reproduire le bug."
+      placeholder: "1. …\n2. …\n3. …"
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: "📌 Comportement attendu"
+      placeholder: "Décris ce qui aurait dû se produire."
+    validations:
+      required: true
+
+  - type: textarea
+    id: environment
+    attributes:
+      label: "🖥️ Environnement"
+      placeholder: "Version VLX‑16S, OS, module impacté, conditions particulières…"
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: "📎 Logs / Screenshots"
+      description: "Ajoute tout élément utile."
